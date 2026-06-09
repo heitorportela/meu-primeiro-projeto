@@ -1,2 +1,2 @@
-# meu-primeiro-projeto
+# proleto escola
 programa desenvolvido na linguagem java script - primeiro trimestre
